@@ -8,3 +8,6 @@ cnn_ver2.ipynb produces a model with accuracy around 95% which is slightly bette
 cnn_ver1: numpy, pandas, cv2(OpenCV), matplotlib, keras
 
 cnn_ver2: numpy, pandas, matplotlib, tensorflow, keras, sklearn
+
+## To reproduce our submission
+Run cnn_ver.ipynb and use the model obtained to create the prediction.
