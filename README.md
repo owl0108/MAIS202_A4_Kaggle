@@ -11,3 +11,4 @@ cnn_ver2: numpy, pandas, matplotlib, tensorflow, keras, sklearn
 
 ## To reproduce our submission
 Run cnn_ver2.ipynb and use the model obtained to create the prediction.
+Note that the path for importing your training data must be changed according to your environment.
