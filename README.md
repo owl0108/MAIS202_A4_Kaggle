@@ -6,4 +6,5 @@ cnn_ver2.ipynb produces a model with accuracy around 95% which is slightly bette
 
 ## Required libraries
 cnn_ver1: numpy, pandas, cv2(OpenCV), matplotlib, keras
+
 cnn_ver2: numpy, pandas, matplotlib, tensorflow, keras, sklearn
